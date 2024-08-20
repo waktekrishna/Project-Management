@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "title": "Design the homepage",
+      "status": "In Progress",
+      "priority": "High",
+      "dueDate": "2024-08-20"
+    },
+    {
+      "id": 2,
+      "title": "Implement authentication",
+      "status": "Not Started",
+      "priority": "Medium",
+      "dueDate": "2024-08-25"
+    },
+    {
+      "id": 3,
+      "title": "Set up CI/CD pipeline",
+      "status": "Completed",
+      "priority": "Low",
+      "dueDate": "2024-08-15"
+    }
+]
